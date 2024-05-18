@@ -1,0 +1,20 @@
+{
+  "name": "kinza-atm-project",
+  "version": "1.0.0",
+  "description": "This a a basic or a simple atm machine",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kinza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "node": "^22.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  }
+}
